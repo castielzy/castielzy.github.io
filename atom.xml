@@ -23,13 +23,13 @@
     <published>2022-08-15T10:07:00.000Z</published>
     <updated>2022-09-01T03:49:15.995Z</updated>
     
-    <content type="html"><![CDATA[<p>Rust与通信</p><p>$<br>i\hbar\frac{\partial}{\partial t}\psi=-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi<br>$</p>]]></content>
+    <content type="html"><![CDATA[<p>Rust与通信</p><p>$<br>i\hbar\frac{\partial}{\partial t}\psi&#x3D;-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi<br>$</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;Rust与通信&lt;/p&gt;
-&lt;p&gt;$&lt;br&gt;i\hbar\frac{\partial}{\partial t}\psi=-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi&lt;br&gt;$&lt;/p&gt;
+&lt;p&gt;$&lt;br&gt;i\hbar\frac{\partial}{\partial t}\psi&amp;#x3D;-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi&lt;br&gt;$&lt;/p&gt;
 </summary>
       
     
