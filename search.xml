@@ -4,27 +4,25 @@
   
     
     <entry>
-      <title>二维码与成本</title>
-      <link href="/2022/08/15/%E4%BA%8C%E7%BB%B4%E7%A0%81%E4%B8%8E%E6%88%90%E6%9C%AC/"/>
-      <url>/2022/08/15/%E4%BA%8C%E7%BB%B4%E7%A0%81%E4%B8%8E%E6%88%90%E6%9C%AC/</url>
+      <title>Rust</title>
+      <link href="/2022/08/15/rust/"/>
+      <url>/2022/08/15/rust/</url>
       
-        <content type="html"><![CDATA[<p>Rust与二维码在成本中应用</p><p>$<br>i\hbar\frac{\partial}{\partial t}\psi&#x3D;-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi<br>$</p>]]></content>
+        <content type="html"><![CDATA[<p>Rust与通信</p><p>$<br>i\hbar\frac{\partial}{\partial t}\psi=-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi<br>$</p>]]></content>
       
       
       <categories>
           
           <category> Web3 </category>
           
-          <category> 企业应用 </category>
-          
-          <category> 成本 </category>
+          <category> 通信 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 成本 </tag>
+            <tag> 通信 </tag>
             
         </tags>
       
