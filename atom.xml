@@ -48,9 +48,9 @@
     <link href="https://castielzy.github.io/2022/08/14/test/"/>
     <id>https://castielzy.github.io/2022/08/14/test/</id>
     <published>2022-08-14T09:01:00.000Z</published>
-    <updated>2022-09-01T04:56:28.290Z</updated>
+    <updated>2023-11-16T07:52:55.050Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="欢迎来到我们的世界与我们的实验室"><a href="#欢迎来到我们的世界与我们的实验室" class="headerlink" title="欢迎来到我们的世界与我们的实验室"></a>欢迎来到我们的世界与我们的实验室</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">东方时空记录</span><br><span class="line">2022.8.15</span><br><span class="line">二战纪念</span><br><span class="line">日本无条件投降</span><br><span class="line">77周年</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h4 id="欢迎来到我们的世界与我们的实验室"><a href="#欢迎来到我们的世界与我们的实验室" class="headerlink" title="欢迎来到我们的世界与我们的实验室"></a>欢迎来到我们的世界与我们的实验室</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Welcome</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
@@ -64,27 +64,6 @@
     
     
     <category term="实验" scheme="https://castielzy.github.io/tags/%E5%AE%9E%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://castielzy.github.io/2022/08/14/hello-world/"/>
-    <id>https://castielzy.github.io/2022/08/14/hello-world/</id>
-    <published>2022-08-14T02:33:56.612Z</published>
-    <updated>2022-09-01T09:34:26.468Z</updated>
-    
-    <content type="html"><![CDATA[<p>test</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;test&lt;/p&gt;
-</summary>
-      
-    
-    
-    
     
   </entry>
   
