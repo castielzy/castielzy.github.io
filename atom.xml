@@ -6,7 +6,7 @@
   <link href="https://castielzy.github.io/atom.xml" rel="self"/>
   
   <link href="https://castielzy.github.io/"/>
-  <updated>2023-11-16T08:46:38.970Z</updated>
+  <updated>2023-11-17T05:44:16.579Z</updated>
   <id>https://castielzy.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>111</title>
+    <link href="https://castielzy.github.io/2023/08/16/test2/"/>
+    <id>https://castielzy.github.io/2023/08/16/test2/</id>
+    <published>2023-08-16T09:01:00.000Z</published>
+    <updated>2023-11-17T05:44:16.579Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="欢迎来到我们的实验室"><a href="#欢迎来到我们的实验室" class="headerlink" title="欢迎来到我们的实验室"></a>欢迎来到我们的实验室</h4><p><img src="/2023/08/16/test2/jimmy.jpg" alt="test"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Welcome</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;欢迎来到我们的实验室&quot;&gt;&lt;a href=&quot;#欢迎来到我们的实验室&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我们的实验室&quot;&gt;&lt;/a&gt;欢迎来到我们的实验室&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;/2023/08/16/test2/jimmy.jpg&quot;</summary>
+      
+    
+    
+    
+    <category term="Labmsg" scheme="https://castielzy.github.io/categories/Labmsg/"/>
+    
+    
+    <category term="实验" scheme="https://castielzy.github.io/tags/%E5%AE%9E%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>Welcome to my world</title>
