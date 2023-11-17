@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>111</title>
+      <title>机器人系统</title>
       <link href="/2023/08/16/test2/"/>
       <url>/2023/08/16/test2/</url>
       
-        <content type="html"><![CDATA[<h4 id="欢迎来到我们的实验室"><a href="#欢迎来到我们的实验室" class="headerlink" title="欢迎来到我们的实验室"></a>欢迎来到我们的实验室</h4><p><img src="/2023/08/16/test2/jimmy.jpg" alt="test"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Welcome</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h4 id="欢迎来到我们的实验室"><a href="#欢迎来到我们的实验室" class="headerlink" title="欢迎来到我们的实验室"></a>欢迎来到我们的实验室</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">机器人实验</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
           
-          <category> Labmsg </category>
+          <category> Robot </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 实验 </tag>
+            <tag> 机器人 </tag>
             
         </tags>
       
