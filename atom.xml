@@ -6,7 +6,7 @@
   <link href="https://castielzy.github.io/atom.xml" rel="self"/>
   
   <link href="https://castielzy.github.io/"/>
-  <updated>2025-05-08T06:35:17.429Z</updated>
+  <updated>2025-05-08T06:37:00.577Z</updated>
   <id>https://castielzy.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://castielzy.github.io/2023/08/16/test2/"/>
     <id>https://castielzy.github.io/2023/08/16/test2/</id>
     <published>2023-08-16T09:01:00.000Z</published>
-    <updated>2025-05-08T06:35:17.429Z</updated>
+    <updated>2025-05-08T06:37:00.577Z</updated>
     
     <content type="html"><![CDATA[<h4 id="欢迎来到我们的实验室"><a href="#欢迎来到我们的实验室" class="headerlink" title="欢迎来到我们的实验室"></a>欢迎来到我们的实验室</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">机器人实验</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -36,6 +36,8 @@
     <category term="Robot" scheme="https://castielzy.github.io/categories/Robot/"/>
     
     <category term="protocol" scheme="https://castielzy.github.io/categories/Robot/protocol/"/>
+    
+    <category term="AI" scheme="https://castielzy.github.io/categories/Robot/protocol/AI/"/>
     
     
     <category term="机器人" scheme="https://castielzy.github.io/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
