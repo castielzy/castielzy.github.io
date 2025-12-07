@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #450144;
+  background: #6b5e9a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2585,6 +2585,14 @@ pre .javascript .function {
 .page-post-detail .comments {
   overflow: hidden;
 }
+html,
+body {
+  background-color: #fafaf2;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
 h1,
 h2,
 h3,
@@ -2846,6 +2854,14 @@ hr {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+.posts-expand .post-block {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 30px 40px;
+  margin: 20px 0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+  border: 1px solid rgba(0,0,0,0.05);
 }
 .btn {
   padding: 0 10px;
